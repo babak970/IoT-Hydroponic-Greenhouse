@@ -306,6 +306,8 @@ This project is released under the MIT License.
 ## 👨‍💻 Author
 
 **Babak Amolirad**
+**Amirreza Qadami**
+**Yasin Charkazi**
 
 Smart Hydroponic Greenhouse Controller
 
