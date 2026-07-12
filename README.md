@@ -59,17 +59,11 @@ The dashboard is stored directly inside the ESP8266 flash memory.
 
 ## 📷 Dashboard
 
-(Add screenshots here)
+<img width="576" height="1280" alt="photo_5084576770173898023_y" src="https://github.com/user-attachments/assets/c893cdd5-f751-4721-a216-42fb4a358990" />
+<img width="576" height="1280" alt="photo_5084576770173898026_y" src="https://github.com/user-attachments/assets/e3a6320e-422d-4d9a-895b-92748cb4f3a6" />
+<img width="576" height="1280" alt="photo_5084576770173898025_y" src="https://github.com/user-attachments/assets/ec116ad7-585b-4529-8a17-917ff2be7e00" />
+<img width="576" height="1280" alt="photo_5084576770173898024_y" src="https://github.com/user-attachments/assets/e47032d9-2c25-4aab-9e5f-73ed4d8d4066" />
 
-Example:
-
-```
-images/dashboard-home.png
-images/dashboard-devices.png
-images/dashboard-mobile.png
-```
-
----
 
 ## 🛠 Hardware
 
